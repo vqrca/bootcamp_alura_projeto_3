@@ -183,15 +183,25 @@ O mundo já havia passado por outras crises sanitárias, mas a pandemia causada 
 [[9]](https://saude.estadao.com.br/noticias/geral,amazonas-apresenta-colapso-no-sistema-de-saude-por-causa-do-coronavirus,70003272136) Amazonas apresenta colapso no sistema de saúde por causa do coronavírus. 
   
 [[10]]
+	
 [[11]]
+	
 [[12]]
+	
 [[13]]
+	
 [[14]]
+	
 [[15]]
+	
 [[16]]
+	
 [[17]]
+	
 [[18]]
+	
 [[19]]
+	
 [[20]]
   
 <a name="doc"></a>
@@ -219,6 +229,9 @@ Gostaria de deixar meu agradecimento aos instrutores do módulo 3: Allan Spadini
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias.
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
+
+<p align="center"><img src='https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif'</p>
+
 
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
