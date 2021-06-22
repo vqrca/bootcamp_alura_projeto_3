@@ -73,6 +73,9 @@ No meu [projeto 1: Análise dos Gastos Hospitalares do SUS (Sistema Único de Sa
 
 Os gráficos abaixos foram obtidos nessas análises anteriores:
 
+<p align="center">
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/taxa_mortalidade.png" />
+</p>
 
 Além disso: 
 
