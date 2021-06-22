@@ -35,9 +35,11 @@ Os coronavírus são um grupo diversificado de vírus que infectam diferentes an
 No final de 2019, um novo coronavírus designado como SARS-CoV-2 surgiu na cidade de Wuhan, na China, e causou um surto de pneumonia viral incomum. Por ser altamente transmissível, essa nova doença conhecida como COVID-19, se espalhou rapidamente por todo o mundo. Superou de forma esmagadora o SARS e o MERS em termos de número de pessoas infectadas e da amplitude espacial das áreas epidêmicas. O surto contínuo de COVID-19 representa uma ameaça extraordinária à saúde pública global [[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext). 
 
 Na figura abaixo, pode-se observar uma linha do tempo dos principais eventos relacionados ao início da pandemia:
+<p align="center">
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/linha_tempo.png" />
+</p>
 
-
-Fonte: Universidade Federal do Rio Grande do Sul - Projeto: Use o R [[3]](https://www.ufrgs.br/user/covid-19/).
+*Fonte: Universidade Federal do Rio Grande do Sul - Projeto: Use o R [[3]](https://www.ufrgs.br/user/covid-19/).*
 
 Por ser uma doença altamente contagiosa, a vida em praticamente todo o planeta foi  modificada. Os grandes centros urbanos se transformaram: ruas vazias, o home office se tornou realidade da vida da maioria das pessoas, aulas também se tornaram online e  diversas atividades foram suspensas. O objetivo dessas medidas sempre foi diminuir a transmissão do vírus, na tentativa de achatar a curva de contágio e não permitir um crescimento exponencial desenfreado no número de casos, e consequentemente, no número de óbitos.
 A experiência da China mostrou que intervenções não farmacológicas, que incluem diversas formas de distanciamento social, desde o isolamento de casos e contatos, até o bloqueio total (lockdown), poderiam conter a epidemia [[4]](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2). 
