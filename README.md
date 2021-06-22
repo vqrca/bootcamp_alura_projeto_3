@@ -42,12 +42,10 @@ Fonte: Universidade Federal do Rio Grande do Sul - Projeto: Use o R [[3]](https:
 Por ser uma doença altamente contagiosa, a vida em praticamente todo o planeta foi  modificada. Os grandes centros urbanos se transformaram: ruas vazias, o home office se tornou realidade da vida da maioria das pessoas, aulas também se tornaram online e  diversas atividades foram suspensas. O objetivo dessas medidas sempre foi diminuir a transmissão do vírus, na tentativa de achatar a curva de contágio e não permitir um crescimento exponencial desenfreado no número de casos, e consequentemente, no número de óbitos.
 A experiência da China mostrou que intervenções não farmacológicas, que incluem diversas formas de distanciamento social, desde o isolamento de casos e contatos, até o bloqueio total (lockdown), poderiam conter a epidemia [[4]](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2). 
 
-<p align="center"><img src='https://media.giphy.com/media/Qu1fT51CG14ksIkASL/giphy.gif'</p>
 
-	
 Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testadas em pessoas e finalmente, aplicadas na população.
 	
-<p align="center"><img src='https://media.giphy.com/media/1OfTIklk1CUMvNccG1/giphy.gif'</p>
+<p align="center"><img src='https://media.giphy.com/media/Qu1fT51CG14ksIkASL/giphy.gif'</p>
 	
 ## **Cenário da Pandemia no Brasil**
 
