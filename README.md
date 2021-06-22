@@ -57,7 +57,7 @@ Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testad
   
 - Em maio de 2020, a Covid-19 tornou-se a maior causa de morte no Brasil [[5]](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/#). 
   
-- Até a semana epidemiológica 20 a região Norte apresentou as maiores taxas de incidência e mortalidade [5](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/#) 
+- Até a semana epidemiológica 20 a região Norte apresentou as maiores taxas de incidência e mortalidade [[5]](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/#) 
   
 - Até a semana epidemiológica 20 o Amazonas apresentou a maior taxa de incidência. 
 [[5]](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/#). 
@@ -220,7 +220,7 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
 	
-<p align="center"><img src='https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif'</p>
+<p align="center"> <img src='https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif' </p>
 		
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
