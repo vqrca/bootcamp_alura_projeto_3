@@ -1,4 +1,4 @@
-[![Badge](https://img.shields.io/badge/Author-Valquíria_Alencar-%237159c1?style=flat-square&logo=ghost)](https://github.com/vqrca/) [![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:valquiria.c.alencar@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/)
+[![Badge](https://img.shields.io/badge/Author-Valquíria_Alencar-%237159c1?style=flat-square&logo=ghost)](https://github.com/vqrca/) [![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:valquiria.c.alencar@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) 
 
 <p align="center">
   <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/cover_3.png" />
@@ -36,19 +36,19 @@ No final de 2019, um novo coronavírus designado como SARS-CoV-2 surgiu na cidad
 
 Na figura abaixo, pode-se observar uma linha do tempo dos principais eventos relacionados ao início da pandemia:
 
-<p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/linha_tempo.png" />
-</p>
 
-
-*Fonte: Universidade Federal do Rio Grande do Sul - Projeto: Use o R [[3]](https://www.ufrgs.br/user/covid-19/).* 
-
+Fonte: Universidade Federal do Rio Grande do Sul - Projeto: Use o R [[3]](https://www.ufrgs.br/user/covid-19/).
 
 Por ser uma doença altamente contagiosa, a vida em praticamente todo o planeta foi  modificada. Os grandes centros urbanos se transformaram: ruas vazias, o home office se tornou realidade da vida da maioria das pessoas, aulas também se tornaram online e  diversas atividades foram suspensas. O objetivo dessas medidas sempre foi diminuir a transmissão do vírus, na tentativa de achatar a curva de contágio e não permitir um crescimento exponencial desenfreado no número de casos, e consequentemente, no número de óbitos.
 A experiência da China mostrou que intervenções não farmacológicas, que incluem diversas formas de distanciamento social, desde o isolamento de casos e contatos, até o bloqueio total (lockdown), poderiam conter a epidemia [[4]](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2). 
 
 <p align="center"><img src='https://media.giphy.com/media/Qu1fT51CG14ksIkASL/giphy.gif'</p>
 
+	
+Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testadas em pessoas e finalmente, aplicadas na população.
+	
+<p align="center"><img src='https://media.giphy.com/media/1OfTIklk1CUMvNccG1/giphy.gif'</p>
+	
 ## **Cenário da Pandemia no Brasil**
 
 - No final de fevereiro de 2020, o primeiro caso da doença foi confirmado no Brasil [[5]](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/#). 
@@ -79,7 +79,7 @@ No meu [projeto 1: Análise dos Gastos Hospitalares do SUS (Sistema Único de Sa
 Os gráficos abaixos foram obtidos nessas análises anteriores:
 
 <p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/taxa_mortalidade.png" />
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/mortalidade.png" />
 </p>
 
 Além disso: 
@@ -183,25 +183,15 @@ O mundo já havia passado por outras crises sanitárias, mas a pandemia causada 
 [[9]](https://saude.estadao.com.br/noticias/geral,amazonas-apresenta-colapso-no-sistema-de-saude-por-causa-do-coronavirus,70003272136) Amazonas apresenta colapso no sistema de saúde por causa do coronavírus. 
   
 [[10]]
-	
 [[11]]
-	
 [[12]]
-	
 [[13]]
-	
 [[14]]
-	
 [[15]]
-	
 [[16]]
-	
 [[17]]
-	
 [[18]]
-	
 [[19]]
-	
 [[20]]
   
 <a name="doc"></a>
@@ -229,9 +219,6 @@ Gostaria de deixar meu agradecimento aos instrutores do módulo 3: Allan Spadini
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias.
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
-
-<p align="center"><img src='https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif'</p>
-
 
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
