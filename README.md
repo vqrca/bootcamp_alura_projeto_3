@@ -217,7 +217,9 @@ Gostaria de deixar meu agradecimento aos instrutores do módulo 3: Allan Spadini
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias.
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
-
+	
+<p align="center"><img src='https://media.giphy.com/media/8X2kIbRJZQkdXt46ur/giphy.gif'</p>
+		
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
  
