@@ -183,15 +183,25 @@ O mundo já havia passado por outras crises sanitárias, mas a pandemia causada 
 [[9]](https://saude.estadao.com.br/noticias/geral,amazonas-apresenta-colapso-no-sistema-de-saude-por-causa-do-coronavirus,70003272136) Amazonas apresenta colapso no sistema de saúde por causa do coronavírus. 
   
 [[10]]
+	
 [[11]]
+	
 [[12]]
+	
 [[13]]
+	
 [[14]]
+	
 [[15]]
+	
 [[16]]
+	
 [[17]]
+	
 [[18]]
+	
 [[19]]
+	
 [[20]]
   
 <a name="doc"></a>
