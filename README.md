@@ -30,6 +30,10 @@
 Neste projeto apliquei os conhecimentos obtidos no módulo 3 do Bootcamp de Data Science Aplicada da Alura. Todo arcabouço teórico adquirido até aqui foi aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook. 
 A [base de dados](https://brasil.io/dataset/covid19/caso_full/) utilizada neste projeto foi extraída do *Brasil.io* e representa os casos de SARS-CoV-2 no Brasil todo. Essa base contém o número de casos novos de covid, número de óbitos e outras informações.
 
+O Notebook com a análise completa e códigos pode ser encontrado [aqui](). 
+
+Uma publicação sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrada na minha página do [Medium]().
+
 ## **Contexto: Pandemia causada pelo novo coronavírus SARS-CoV-2**
 Os coronavírus são um grupo diversificado de vírus que infectam diferentes animais e podem causar infecções respiratórias leves a graves em humanos. Em 2002 e 2012, respectivamente, dois coronavírus altamente patogênicos de origem zoonótica, o coronavírus com síndrome respiratória aguda grave (SARS-CoV) e o  coronavírus com síndrome respiratória do Oriente Médio (MERS-CoV), surgiram em humanos e tornam-se um novo problema de saúde pública no século XXI [[1]](https://www.nature.com/articles/s41579-018-0118-9).
 No final de 2019, um novo coronavírus designado como SARS-CoV-2 surgiu na cidade de Wuhan, na China, e causou um surto de pneumonia viral incomum. Por ser altamente transmissível, essa nova doença conhecida como COVID-19, se espalhou rapidamente por todo o mundo. Superou de forma esmagadora o SARS e o MERS em termos de número de pessoas infectadas e da amplitude espacial das áreas epidêmicas. O surto contínuo de COVID-19 representa uma ameaça extraordinária à saúde pública global [[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext). 
@@ -88,11 +92,8 @@ Além disso:
   
 - Em janeiro de 2021, o Amazonas começou a viver um colapso com a segunda onda, com a falta de oxigênio nos hospitais de Manaus[[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html).
 
-Por esses motivos, esse projeto teve o foco em analisar Amazonas! 
+Por esses motivos, esse projeto teve como foco o estado Amazonas! 
 
-O Notebook com a análise completa e códigos pode ser encontrado [aqui](). 
-
-Uma publicação sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrada na minha página do [Medium]().
 
 <a name="dados"></a>
 # **Dados**
