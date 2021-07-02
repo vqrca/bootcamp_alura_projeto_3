@@ -157,7 +157,9 @@ Obtive os modelos deste projeto após:
 - Remover os *outliers*;
 - Então, fiz uma série de testes de como conseguir ajustar os dados e cheguei nos seguintes parâmetros finais:
 
-
+<p align="center">
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/modelo_final.png" />
+</p>
 
 > Quando ajustei o modelo para Novos óbitos um `changepoint_range=0.92` me trouxe um melhor resultado. 
  
@@ -175,9 +177,6 @@ Obtive os modelos deste projeto após:
  
  
 Após concluir as análises, vemos que em poucas linhas de código é possível fazer previsões e validações, o que faz do Prophet uma ferramenta bastante poderosa e prática.
-
-
-
 
 <a name="ref"></a>
 # **Referências**
