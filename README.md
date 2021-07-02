@@ -21,7 +21,6 @@
 # **Introdução**
 
 Neste projeto apliquei os conhecimentos obtidos no módulo 3 do Bootcamp de Data Science Aplicada da Alura. Todo arcabouço teórico adquirido até aqui foi aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook. 
-A [base de dados](https://brasil.io/dataset/covid19/caso_full/) utilizada neste projeto foi extraída do *Brasil.io* e representa os casos de SARS-CoV-2 no Brasil todo. Essa base contém o número de casos novos de covid, número de óbitos e outras informações.
 
 O Notebook com a análise completa e códigos pode ser encontrado [aqui](). 
 
@@ -41,10 +40,9 @@ Na figura abaixo, pode-se observar uma linha do tempo dos principais eventos rel
 Por ser uma doença altamente contagiosa, a vida em praticamente todo o planeta foi  modificada. Os grandes centros urbanos se transformaram: ruas vazias, o home office se tornou realidade da vida da maioria das pessoas, aulas também se tornaram online e  diversas atividades foram suspensas. O objetivo dessas medidas sempre foi diminuir a transmissão do vírus, na tentativa de achatar a curva de contágio e não permitir um crescimento exponencial desenfreado no número de casos, e consequentemente, no número de óbitos.
 A experiência da China mostrou que intervenções não farmacológicas, que incluem diversas formas de distanciamento social, desde o isolamento de casos e contatos, até o bloqueio total (lockdown), poderiam conter a epidemia [[4]](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2). 
 
-
-Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testadas em pessoas e finalmente, aplicadas na população.
-	
 <p align="center"><img src='https://media.giphy.com/media/Qu1fT51CG14ksIkASL/giphy.gif'</p>
+	
+Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testadas e finalmente, aplicadas na população!
 	
 ## **Cenário da Pandemia no Brasil**
 
