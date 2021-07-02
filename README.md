@@ -22,9 +22,9 @@
 
 Neste projeto apliquei os conhecimentos obtidos no módulo 3 do Bootcamp de Data Science Aplicada da Alura. Todo arcabouço teórico adquirido até aqui foi aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook. 
 
-O Notebook com a análise completa e códigos pode ser encontrado [aqui](). 
+O Notebook com a análise completa e códigos pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Notebooks/Bootcamp_Projeto_3_Valquiria_Alencar.ipynb). 
 
-Uma publicação sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrada na minha página do [Medium]().
+Uma publicação sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrada na minha página do [Medium](https://medium.com/p/fefbc0d385cc).
 
 ## **Contexto: Pandemia causada pelo novo coronavírus SARS-CoV-2**
 Os coronavírus são um grupo diversificado de vírus que infectam diferentes animais e podem causar infecções respiratórias leves a graves em humanos. Em 2002 e 2012, respectivamente, dois coronavírus altamente patogênicos de origem zoonótica, o coronavírus com síndrome respiratória aguda grave (SARS-CoV) e o  coronavírus com síndrome respiratória do Oriente Médio (MERS-CoV), surgiram em humanos e tornam-se um novo problema de saúde pública no século XXI [[1]](https://www.nature.com/articles/s41579-018-0118-9).
