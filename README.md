@@ -23,6 +23,7 @@
 Neste projeto apliquei os conhecimentos obtidos no módulo 3 do Bootcamp de Data Science Aplicada da Alura. Todo arcabouço teórico adquirido até aqui foi aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook. 
 
 O Notebook com a análise completa e códigos pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Notebooks/Bootcamp_Projeto_3_Valquiria_Alencar.ipynb). 
+> Recomendo que seja aberto pelo google colab para melhorar a visualização! 
 
 Uma publicação sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrada na minha página do [Medium](https://medium.com/p/fefbc0d385cc).
 
