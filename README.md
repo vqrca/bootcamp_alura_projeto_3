@@ -151,9 +151,31 @@ Outro motivo que pode explicar esse resultado é que a rede hospitalar da regiã
 
 <a name="final"></a>
 # **Considerações finais**
-O mundo já havia passado por outras crises sanitárias, mas a pandemia causada pelo SARS-CoV-2 tem uma particularidade: devido aos avanços tecnológicos, hoje os indivíduos estão conectados de maneira global e as informações circulam de forma massiva por meio das redes sociais. Nós vimos, claramente, que até mesmo cientistas perderam credibilidade e vivenciamos a era das fake news.
 
-<p align="center"><img src='https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif'</p>
+Obtive os modelos deste projeto após:
+- Criar uma lista com todos os feriados nacionais, estaduais (Amazonas) e do município Manaus;
+- Remover os *outliers*;
+- Então, fiz uma série de testes de como conseguir ajustar os dados e cheguei nos seguintes parâmetros finais:
+
+
+
+> Quando ajustei o modelo para Novos óbitos um `changepoint_range=0.92` me trouxe um melhor resultado. 
+ 
+- `n_changepoints`: Este é o número de changepoints colocados automaticamente. O padrão de 25 deve ser suficiente para capturar as mudanças de tendência em uma série temporal típica. Em vez de aumentar ou diminuir o número de pontos de mudança, provavelmente será mais eficaz se concentrar em aumentar ou diminuir a flexibilidade nessas mudanças de tendência, o que é feito com `changepoint_prior_scale`. 
+ 
+- `changepoint_range`: Esta é a proporção em que a tendência pode mudar. O *default* desse parâmetro é 0.8, (80%), o que significa que o modelo não se ajustará a nenhuma mudança de tendência nos últimos 20% da série temporal. Isso é bastante conservador, para evitar *overfitting* nas mudanças de tendência no final da série temporal, onde não há pista suficiente para se encaixar bem. Isso é algo que pode ser identificado visualmente com bastante facilidade: pode-se ver claramente se a previsão está indo mal nos últimos 20%. Porém, acabei ajustando para 0.90 (nos Novos Casos) e para 0.92 (nos Novos óbitos), pois devido ao pico de segunda onda da pandemia, a curva não estava se ajustando bem apenas com o valor *default* de 0.8. 
+ 
+- `changepoint_prior_scale`: Este é provavelmente o parâmetro mais impactante. Ele determina a flexibilidade da tendência e, em particular, o quanto a tendência muda nos pontos de mudança de tendência. O *default* desse parâmetro é de 0.05 e isso funciona para muitas séries temporais, porém ajustei para 0.1.
+ 
+- `seasonality_mode`: As opções são ['additive' ou 'multiplicative']. O *default* é 'aditivo', mas muitas séries temporais terão sazonalidade multiplicativa. Isso é melhor identificado apenas olhando para a série temporal e ver se a magnitude das flutuações sazonais cresce com a magnitude da série temporal. No meu caso, a sazonalidade multiplicativa gerou resultados melhores.
+ 
+- `holidays`: para passar em um dataframe de feriados especificados.
+ 
+- `weekly_seasonality`: 7 dias 
+ 
+ 
+Após concluir as análises, vemos que em poucas linhas de código é possível fazer previsões e validações, o que faz do Prophet uma ferramenta bastante poderosa e prática.
+
 
 
 
@@ -193,6 +215,7 @@ O mundo já havia passado por outras crises sanitárias, mas a pandemia causada 
 [[17]](https://semsa.manaus.am.gov.br/noticia/mais-de-250-mil-pessoas-ja-estao-com-o-ciclo-de-imunizacao-completo-em-manaus/) Imunização SEMSA - Manaus
 
 [[18 ]](https://www.thelancet.com/article/S0140-6736(21)00183-5/fulltext) Resurgence of COVID-19 in Manaus, Brazil, despite high seroprevalence.
+	
 [[19]](https://science.sciencemag.org/content/372/6544/815) Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil.
   
 <a name="doc"></a>
@@ -221,11 +244,13 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
 	
-<p align="center"><img src=https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif </p>
+<p align="center"><img src=  </p>
 		
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
- 
+  
+[Medium](https://valquiria-c-alencar.medium.com/)
+	
 [LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
  
 [ResearchGate](https://www.researchgate.net/profile/Valquiria-Alencar)
