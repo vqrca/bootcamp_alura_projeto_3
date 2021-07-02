@@ -95,19 +95,19 @@ Por esses motivos, esse projeto teve como foco o estado Amazonas!
 ## **Coleta dos dados:**
 
 Os dados utilizados neste projeto foram obtidos do [Brasil.io](https://brasil.io/dataset/covid19/caso_full/), um banco de dados que disponibiliza dados acerca dos casos e óbitos de SARS-CoV-2 no Brasil todo.
-Neste projeto os seguintes datasets foram obtidos:
- 
-- Todos os Estados, com os seguintes filtros:
-   
-- Estado Amazonas, com os seguintes filtros:
 
-- Manaus, com os seguintes filtros:
+Eu escolhi o dataset: caso_full, que possui os dados para todos os municípios do país. 
 
-Os arquivos *.csv* desse datasets podem ser encontrados na pasta [data](https://github.com/vqrca/bootcamp_alura_projeto_3/tree/main/Data) desse repositório. 
+>API: https://brasil.io/api/dataset/covid19/caso_full/data
+
+>Dados completos para download: https://data.brasil.io/dataset/covid19/caso_full.csv.gz
+
+O arquivo *.csv* desse dataset foi salvo no dia 18/06/21 e pode ser encontrado no [Google Drive](https://drive.google.com/drive/folders/1skKBY8LjHj0tL7vk_nZfAQuZ-2G0cDZz).
+
   
 ## **Bibliotecas utilizadas e suas respectivas funções**
 
-- Pandas versão 1.1.5: Manipulação dos datasets - 
+- Pandas versão 1.1.5: Manipulação dos datasets  
   
 - Numpy versão 1.19.5: Cálculos numéricos
   
@@ -138,16 +138,22 @@ De acordo com esse objetivo as seguintes hipóteses foram definidas:
 <a name="conclusoes"></a>
 # **Conclusões**
 
-Hipótese 1: O número de casos novos deve se estabilizar nos próximos meses, devido ao início da vacinação.
->
-  
-Hipótese 2: O número de óbitos novos deve começar a cair nos próximos meses, devido ao início da vacinação.
->
+- As análises preliminares desse projeto mostraram que ** a pandemia de COVID-19 no Amazonas é, até o momento, caracterizada por dois picos**:  **a primeira onda começou em março de 2020 e atingiu o pico por volta do início de maio de 2020**, quando o número de casos diminuiu e então permaneceu praticamente estável de junho a novembro de 2020. Porém, **em meados de dezembro o número de casos começou a crescer exponencialmente, configurando a segunda onda da pandemia** 
 
-Na região nordeste houve registros de diversos empecilhos de adesão, por parte da população, para o isolamento social recomendado pelas autoridades de saúde(https://www.uerj.br/noticia/11078/)
+- Os óbitos também tiveram a **primeira onda se iniciando em março de 2020, que atingiu o pico por volta do início de maio de 2020**, quando o número de óbitos diminuiu e então permaneceu praticamente estável de junho a novembro de 2020. Porém, **em meados de dezembro o número de óbitos começou a crescer exponencialmente, configurando a segunda onda**.
 
-Outro motivo que pode explicar esse resultado é que a rede hospitalar da região Norte é menor quando comparada com as das outras regiões do país, possuindo o menor número de leitos, que em longo prazo é incapaz de responder à demanda, tanto no setor público quanto no privado(http://tabnet.datasus.gov.br/cgi/tabcgi.exe?cnes/cnv/leiintbr.def)
+- Estudos acreditam que **o aumento de casos e óbitos foram impulsionados por uma combinação de diminuições das medidas de distanciamento social e pelo surgimento de uma forma mais transmissível do vírus, a variante P.1**, identificada em meados de novembro de 2020. **Essa variante causou um aumento exponencial da doença, o que estabeleceu a segunda onda da pandemia no estado**.
 
+- Várias hipóteses foram propostas para explicar a segunda onda inesperada que resultou no colapso do sistema de saúde em Manaus entre dezembro de 2020 e janeiro de 2021 [[18]](https://www.thelancet.com/article/S0140-6736(21)00183-5/fulltext): Uma hipótese é que a linhagem P.1 pode escapar da imunidade gerada em resposta a uma infecção anterior e tem o potencial de reinfectar indivíduos convalescentes. Embora alguns casos de reinfecção com a linhagem P.1 tenham sido descritos em Manaus [[19]](https://science.sciencemag.org/content/372/6544/815), até que ponto as reinfecções efetivamente contribuem para a transmissão progressiva do SARS-CoV-2 e o aumento de casos na segunda onda no Amazonas permanece controverso. No entanto, várias evidências complementares apóiam que esses eventos foram provavelmente motivados pelo surgimento de uma variante mais transmissível em um contexto de distanciamento social relaxado [[14]](https://www.nature.com/articles/s41591-021-01378-7).
+
+- Quando analisei as **médias móveis** de casos e óbitos notei que houve uma **diminuição  e estabilização tanto para casos e óbitos, após abril de 2021**. O que, certamente, deve ser **reflexo da vacinação**, que foi iniciada em Janeiro de 2021 e segundo informações da secretaria municipal de sáude de Manaus em maio de 2021, mais de 250 mil pessoas já estavam com o ciclo de imunização completo em Manaus. Até o final de maio Manaus ultrapassou a meta de 90% estabelecida pelo Ministério da Saúde em dez grupos: povos indígenas; trabalhadores de saúde, pessoas de 60 a 64 anos; pessoas de 65 a 69%; grupo de 70 a 74 anos; de 75 a 79 anos; idosos de 80 anos e mais ; e pessoas de 18 a 59 anos com comorbidades.
+
+- Após realizar as **previões com o Prophet**, tanto para novos **casos** quanto para novos **óbitos**, consegui obter **modelos com curvas bem ajustadas e com dados de teste aderidos à curva**. Ambos **os modelos**,  **mostram uma tendência de queda para os próximos meses.** 
+
+- As análises de componentes, incluindo tendência, sazonalidade e feriados, mostrou que aos **domingos e segundas há uma diminuição da notificação dos casos e óbitos.** Esses dados da Pandemia aos domingos, segundas e feriados, costumam ser menores devido a atrasos de notificação nas secretarias da saúde, que nesses dias, trabalham com menos profissionais, em esquema de plantão. Além disso, podemos percerber que há uma **baixa nos casos e óbitos notificados, quando os dias úteis se tornam feriados.**
+O modelo de **sazonalidade multiplicativa**, que é usado com flutuações sazonais que variam dependendo do nível global da série, **se mostrou mais adequado para os modelos previstos nesse projeto**. Destaque deve ser dados de novos Óbitos, onde nos valores das métricas do *Scikit-learn*, a média do erro absoluto foi de apenas 8.1, no caso da sazonalidade multiplicativa.
+ 
+- Após realizar o *Cross-Validation* dos modelos de previsão, no geral, vemos que **quanto maior o número de dias do horizon, maior é a dispersão dos dados no nosso modelo**. Como esse projeto está usando dados reais da Pandemia de COVID-19, sabemos que em muitos momentos da pandemia os dados sofreram grandes mudanças, com picos de casos e óbitos e isso influencia nessa questão da dispersão dos pontos no modelo. Se fosse uma série temporal estabilizada, contendo dados de um tempo maior, possivelmente, os erros vistos nesses parâmetros poderiam ser bem menores do que estamos vendo aqui. Contudo, **na previsão de Novos Óbitos os resultados obtidos com essas métricas foram melhores no geral**.
 
 <a name="final"></a>
 # **Considerações finais**
