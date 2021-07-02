@@ -73,10 +73,11 @@ No início de março de 2021, o país registrou sua semana mais letal desde o in
 
 No meu [projeto 1: Análise dos Gastos Hospitalares do SUS (Sistema Único de Saúde) e Evolução das Taxas de Mortalidade no Brasil ](https://github.com/vqrca/bootcamp_alura_projeto_1), desenvolvido anteriormente nesse Bootcamp, eu fiz uma análise da evolução das taxas de mortalidade nas Unidades da Federação. Essas análises mostraram que a taxa de mortalidade dobrou em Amazonas em 2021 (apresentando uma taxa de mortalidade de 10.82), quando comparado a 2020 (5.46), consequentemente se tornando o Estado com maior taxa de mortalidade.
 
-Os gráficos abaixos foram obtidos nessas análises anteriores:
+O gráfico abaixo foi obtido com os dados dessas análises anteriores:
+> O dataset utilizado foi obtido no [Tabnet](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/qiuf.def) em junho de 2021, e nesse período os dados disponíveis eram de 2007 a março de 2021.
 
 <p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/taxa_mortalidade.png" />
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/taxa_mortalidade_final.png" />
 </p>
 
 Além disso: 
