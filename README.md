@@ -107,13 +107,13 @@ Os arquivos *.csv* desse datasets podem ser encontrados na pasta [data](https://
   
 ## **Bibliotecas utilizadas e suas respectivas funções**
 
-- Pandas:Manipulação dos datasets
+- Pandas versão 1.1.5: Manipulação dos datasets - 
   
-- Numpy: Cálculos numéricos
+- Numpy versão 1.19.5: Cálculos numéricos
   
-- Matplotlib: Plotar os gráficos
+- Matplotlib versão 3.2.2: Plotar os gráficos
   
-- Seaborn: Plotar os gráficos
+- Seaborn versão 0.11.1: Plotar os gráficos
   
 - StatsModel: Análise de correlações
   
@@ -160,44 +160,40 @@ O mundo já havia passado por outras crises sanitárias, mas a pandemia causada 
 <a name="ref"></a>
 # **Referências**
 [[1]](https://www.nature.com/articles/s41579-018-0118-9) Origin and evolution of pathogenic coronaviruses. 
-  
-[[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext) Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study
-  
+ 
+[[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext) Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.
+ 
 [[3]](https://www.ufrgs.br/user/covid-19/) Universidade Federal do Rio Grande do Sul - Projeto: Use o R. 
-  
+ 
 [[4]](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_2) World Health Organization - WHO. Coronavirus disease 2019 (COVID-19): situation report – 44.
-  
+ 
 [[5]](https://www.scielosp.org/article/ress/2020.v29n4/e2020376/) COVID-19 no Brasil: evolução da epidemia até a semana epidemiológica 20 de 2020. 
-  
+ 
 [[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html) Evolução dos casos de coronavírus no Brasil. 
-  
-[[7]](https://www1.folha.uol.com.br/equilibrioesaude/2021/04/media-movel-de-mortes-passa-de-3000-e-brasil-registra-3673-obitos-em-24-h.shtml#:~:text=M%C3%A9dia%20m%C3%B3vel%20de%20mortes%20por,2021%20%2D%20Equil%C3%ADbrio%20e%20Sa%C3%BAde%20%2D%20Folha) Folha de São Paulo: Média móvel de mortes por Covid passa de 3.000 e Brasil registra 3.673 óbitos em 24 h.
-  
-[[8]](https://covid.saude.gov.br/) Painel Coronavírus ( acessado em 22/06/21)
-  
-[[9]](https://saude.estadao.com.br/noticias/geral,amazonas-apresenta-colapso-no-sistema-de-saude-por-causa-do-coronavirus,70003272136) Amazonas apresenta colapso no sistema de saúde por causa do coronavírus. 
-  
-[[10]]
-	
-[[11]]
-	
-[[12]]
-	
-[[13]]
-	
-[[14]]
-	
-[[15]]
-	
-[[16]]
-	
-[[17]]
-	
-[[18]]
-	
-[[19]]
-	
-[[20]]
+ 
+[[7]](https://www1.folha.uol.com.br/equilibrioesaude/2021/04/media-movel-de-mortes-passa-de-3000-e-brasil-registra-3673-obitos-em-24-h.shtml#:~:text=M%C3%A9dia%20m%C3%B3vel%20de%20mortes%20por,2021%20%2D%20Equil%C3%ADbrio%20e%20Sa%C3%BAde%20%2D%20Folha) Folha de São Paulo: Média móvel de mortes por Covid passa de 3.000 e Brasil registra 3.673 óbitos em 24h.
+ 
+[[8]](https://covid.saude.gov.br/) Painel Coronavírus (acessado em 22/06/21).
+ 
+[[9]](https://saude.estadao.com.br/noticias/geral,amazonas-apresenta-colapso-no-sistema-de-saude-por-causa-do-coronavirus,70003272136) Estadão: Amazonas apresenta colapso no sistema de saúde por causa do coronavírus. 
+ 
+[[10]](https://www.cnnbrasil.com.br/saude/2021/03/17/covid-19-no-brasil-17-3-2021) CNN: Brasil bate recorde de casos de Covid-19 e média de mortes fica acima de 2.000.
+ 
+[[11]](https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/boletim_covid_2021_extraordinario_junho_parte1.pdf) Boletim extraordinário do Observatório Covid-19 - 25 de junho - parte 1.
+ 
+[[12]](https://www.scielo.br/j/mioc/a/zZcPQFjhhgYrJLVJ77HJC3C/?lang=en) Genomic and phylogenetic characterisation of an imported case of SARS-CoV-2 in Amazonas State, Brazil.
+ 
+[[13]](https://www.fvs.am.gov.br/media/publicacao/21_02_21_BOLETIM_DIÁRIO_DE_CASOS_COVID-19.pdf) Fundação em Vigilância e Saúde do Amazonas. Boletim diários dos casos de COVID-19.
+ 
+[[14]](https://www.nature.com/articles/s41591-021-01378-7) COVID-19 in Amazonas, Brazil, was driven by the persistence of endemic lineages and P.1 emergence.
+ 
+[[15]](https://wwwnc.cdc.gov/eid/article/27/4/21-0138_article) Novel SARS-CoV-2 Variant in Travelers from Brazil to Japan.
+[[16]](https://agenciabrasil.ebc.com.br/saude/noticia/2021-01/vacinacao-contra-covid-19-come%C3%A7a-em-todo-o-pais) Agência Brasil: Vacinação contra a covid-19 começa em todo o país
+ 
+[[17]](https://semsa.manaus.am.gov.br/noticia/mais-de-250-mil-pessoas-ja-estao-com-o-ciclo-de-imunizacao-completo-em-manaus/) Imunização SEMSA - Manaus
+
+[[18 ]](https://www.thelancet.com/article/S0140-6736(21)00183-5/fulltext) Resurgence of COVID-19 in Manaus, Brazil, despite high seroprevalence.
+[[19]](https://science.sciencemag.org/content/372/6544/815) Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil.
   
 <a name="doc"></a>
 # **Documentação**
