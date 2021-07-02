@@ -75,7 +75,7 @@ O gráfico abaixo foi obtido com os dados dessas análises anteriores:
 > O dataset utilizado foi obtido no [Tabnet](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/qiuf.def) em junho de 2021, e nesse período os dados disponíveis eram de 2007 a março de 2021.
 
 <p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/taxa_mortalidade_final.png" />
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/.png" />
 </p>
 
 Além disso: 
