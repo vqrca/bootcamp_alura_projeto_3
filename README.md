@@ -4,12 +4,7 @@
   <img src="https://github.com/vqrca/bootcamp_alura_projeto_3/blob/main/Images/cover_3.png" />
 </p>
 
-<h4 align="center"> 
-🚀 Em construção...  🚧
-</h4>
-
 # **Sumário:**
-=================
 <!--ts-->
    * [Introdução](#intro)
    * [Dados](#dados)
@@ -21,8 +16,6 @@
    * [Agradecimentos](#agra)
    * [Contato](#contact)
    <!--te-->
-
-
 
 <a name="intro"></a>
 # **Introdução**
