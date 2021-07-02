@@ -60,12 +60,12 @@ Todas essas ações foram cruciais até que vacinas fossem desenvolvidas, testad
   
 - Em 8 de agosto, menos de seis meses depois, o Brasil chegou à triste marca de 100.000 mortes causadas pelo novo coronavírus [[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html).
   
-- Em 7 de janeiro de 2021, os óbitos chegaram a marca de 200.000 [[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html).
+- Em 7 de janeiro de 2021, os óbitos chegaram à marca de 200.000 [[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html).
 No início de março de 2021, o país registrou sua semana mais letal desde o início da pandemia, com a média móvel de mortes em torno de 1.500 por dia [[6]](https://brasil.elpais.com/ciencia/2020-07-23/evolucao-dos-casos-de-coronavirus-no-brasil.html).
   
-- Em abril de 2021 a média móvel de mortes por Covid passou de 3.000 e Brasil registrou 3.673 óbitos em 24 horas. A média móvel média bateu recorde pelo 7º dia seguido[[7]](https://www1.folha.uol.com.br/equilibrioesaude/2021/04/media-movel-de-mortes-passa-de-3000-e-brasil-registra-3673-obitos-em-24-h.shtml#:~:text=M%C3%A9dia%20m%C3%B3vel%20de%20mortes%20por,2021%20%2D%20Equil%C3%ADbrio%20e%20Sa%C3%BAde%20%2D%20Folha). 
+- Em abril de 2021 a média móvel de mortes por Covid passou de 3.000 e o Brasil registrou 3.673 óbitos em 24 horas. A média móvel média bateu recorde pelo 7º dia seguido[[7]](https://www1.folha.uol.com.br/equilibrioesaude/2021/04/media-movel-de-mortes-passa-de-3000-e-brasil-registra-3673-obitos-em-24-h.shtml#:~:text=M%C3%A9dia%20m%C3%B3vel%20de%20mortes%20por,2021%20%2D%20Equil%C3%ADbrio%20e%20Sa%C3%BAde%20%2D%20Folha). 
   
-- Recentemente, o Brasil ultrapassou meio milhão de óbitos por SARS-CoV-2 e o número de casos acumulados reportados é de 17.966.831[[8]](https://covid.saude.gov.br/). 
+- Recentemente, o Brasil ultrapassou meio milhão de óbitos por SARS-CoV-2 e o número de casos acumulados reportados ultrapassou 17 milhões [[8]](https://covid.saude.gov.br/). 
 
 
 ## **O caso de Amazonas**
