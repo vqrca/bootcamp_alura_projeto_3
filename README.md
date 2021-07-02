@@ -136,7 +136,7 @@ De acordo com esse objetivo as seguintes hipóteses foram definidas:
 <a name="conclusoes"></a>
 # **Conclusões**
 
-- As análises preliminares desse projeto mostraram que ** a pandemia de COVID-19 no Amazonas é, até o momento, caracterizada por dois picos**:  **a primeira onda começou em março de 2020 e atingiu o pico por volta do início de maio de 2020**, quando o número de casos diminuiu e então permaneceu praticamente estável de junho a novembro de 2020. Porém, **em meados de dezembro o número de casos começou a crescer exponencialmente, configurando a segunda onda da pandemia** 
+- As análises preliminares desse projeto mostraram que **a pandemia de COVID-19 no Amazonas é, até o momento, caracterizada por dois picos**:  **a primeira onda começou em março de 2020 e atingiu o pico por volta do início de maio de 2020**, quando o número de casos diminuiu e então permaneceu praticamente estável de junho a novembro de 2020. Porém, **em meados de dezembro o número de casos começou a crescer exponencialmente, configurando a segunda onda da pandemia** 
 
 - Os óbitos também tiveram a **primeira onda se iniciando em março de 2020, que atingiu o pico por volta do início de maio de 2020**, quando o número de óbitos diminuiu e então permaneceu praticamente estável de junho a novembro de 2020. Porém, **em meados de dezembro o número de óbitos começou a crescer exponencialmente, configurando a segunda onda**.
 
