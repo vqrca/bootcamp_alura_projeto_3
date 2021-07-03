@@ -258,7 +258,7 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
 	
-<p align="center"> <img src=https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif </p> 
+<p align="center"> <img src=https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif </p> 
 		
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
