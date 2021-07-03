@@ -156,6 +156,13 @@ De acordo com esse objetivo as seguintes hipóteses foram definidas:
 - Após realizar as **previsões com o Prophet**, tanto para novos **casos** quanto para novos **óbitos**, consegui obter **modelos com curvas bem ajustadas e com dados de teste aderidos à curva**. Ambos **os modelos**,  **mostram uma tendência de queda para os próximos meses.**
  
 - Portanto, **as duas hipóteses levantadas no início do projeto foram respondidas: Sim, após alguns meses de vacinação houve queda de casos e óbitos e a tendência é de que continuem diminuindo**.
+
+- Quando testamos **previsões com períodos mais longos**, vemos que o **intervalo de confiança tende a aumentar cada vez mais**. No caso das previsões feitas neste projeto, **a curva de tendência indica que os números de novos casos e novos óbitos poderão se manter baixos nos próximos dois meses**. Porém, quando pensamos em séries temporais o esperado seria encontrar uma sazonalidade constante e não foi isso que vimos nestes dados de Manaus. **Em Manaus, observamos essa segunda onda catastrófica, que poderia ter sido evitada**, mas uma série de fatores [[11]](https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/boletim_covid_2021_extraordinario_junho_parte1.pdf) nos trouxeram essa triste realidade de vários óbitos causados pela COVID-19: 
+  - Falha do governo em assumir a liderança e responsabilidade no desenvolvimento de estratégias coerentes destinadas à prevenção da transmissão do vírus; 
+  - Descoordenação das políticas e ações entre os níveis nacional e estados/municípios, comprometendo as capacidades de mobilizar recursos essenciais para o enfrentamento da pandemia; 
+  - Desvalorização de medidas preventivas e de tratamentos baseados na ciência e estímulo generalizado para a adoção de tratamentos sem comprovação científica;
+  - Demora nas decisões e ações necessárias para garantia de estoque de insumos (equipamentos de UTI e proteção, medicamentos e vacinas); 
+  - E é claro: a criação de um clima de descrédito e desconfiança na população em temas relacionados ao uso de máscaras e ao conjunto de medidas de distanciamento físico e social, bem como às vacinas, minando os esforços de enfrentamento e respostas.
  
 - As análises de componentes, incluindo tendência, sazonalidade e feriados, mostraram que aos **domingos e segundas há uma diminuição da notificação dos casos e óbitos.** Esses dados da Pandemia aos domingos, segundas e feriados, costumam ser menores devido a atrasos de notificação nas secretarias da saúde, que nesses dias, trabalham com menos profissionais, em esquema de plantão. Além disso, podemos perceber que há uma **baixa nos casos e óbitos notificados, quando os dias úteis se tornam feriados.**
  
