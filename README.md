@@ -163,6 +163,8 @@ De acordo com esse objetivo as seguintes hipóteses foram definidas:
  
 - Após realizar o *Cross-Validation* dos modelos de previsão, no geral, vemos que **quanto maior o número de dias do `horizon`, maior é a dispersão dos dados no nosso modelo**. Como esse projeto está usando dados reais da Pandemia de COVID-19, sabemos que em muitos momentos da pandemia os dados sofreram grandes mudanças, com picos de casos e óbitos e isso influencia nessa questão da dispersão dos pontos no modelo. Se fosse uma série temporal estabilizada, contendo dados de um tempo maior, possivelmente, os erros vistos nesses parâmetros poderiam ser bem menores do que estamos vendo aqui. Contudo, **na previsão de Novos Óbitos os resultados obtidos com essas métricas foram melhores no geral**.
 
+
+<a name="final"></a>
 # **Considerações finais**
 
 Obtive os modelos deste projeto após:
@@ -256,7 +258,7 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 
 Também gostaria de agradecer aos amigos Carolina Dias e Junior Torres, que sempre dão apoio, incentivo e fazem os dias serem mais leves e descontraídos. 
 	
-<p align="center"><img src=https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif </p> 
+<p align="center"> <img src=https://media.giphy.com/media/QSJflihoTLhXIzVjYU/giphy.gif </p> 
 		
 <a name="contact"></a>
 # **Onde encontrar meu trabalho?**
