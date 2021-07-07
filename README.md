@@ -125,7 +125,7 @@ O arquivo *.csv* desse dataset foi salvo no dia 18/06/21 e pode ser encontrado n
 <a name="hip"></a>
 # **Hipóteses**
 
-O objetivo principal deste módulo é a previsão de dados de séries temporais. Essas previsões foram realizadas para o número de casos e óbitos do Amazonas.
+O objetivo principal deste módulo é a previsão de dados de séries temporais. Essas previsões foram realizadas para o número de novos casos e novos óbitos em Manaus.
 De acordo com esse objetivo as seguintes hipóteses foram definidas:
 
 
